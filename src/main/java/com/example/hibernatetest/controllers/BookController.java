@@ -22,7 +22,7 @@ public class BookController {
         return "Book was saved";
     }
 
-    //YOYOmotherfucker
+
 
     @GetMapping(path="/all")
     public Iterable<Book>addBook(){
